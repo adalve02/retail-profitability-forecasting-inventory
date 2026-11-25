@@ -1,0 +1,325 @@
+month,store_id,expense_category,budget_amount_cad
+2026-01,ST01,Rent & Occupancy,21515.05
+2026-01,ST01,Salaries & Wages,33210.41
+2026-01,ST01,Sales Commission,5077.82
+2026-01,ST01,Marketing & Advertising,2917.06
+2026-01,ST01,Card Processing Fees,8323.23
+2026-01,ST01,Insurance & Security,4589.87
+2026-01,ST01,Utilities,1752.18
+2026-01,ST01,Repairs & Maintenance,2019.66
+2026-01,ST01,Other G&A,1870.11
+2026-02,ST01,Rent & Occupancy,21515.05
+2026-02,ST01,Salaries & Wages,33210.41
+2026-02,ST01,Sales Commission,5055.7
+2026-02,ST01,Marketing & Advertising,3545.66
+2026-02,ST01,Card Processing Fees,9034.19
+2026-02,ST01,Insurance & Security,4589.87
+2026-02,ST01,Utilities,2249.62
+2026-02,ST01,Repairs & Maintenance,465.75
+2026-02,ST01,Other G&A,1768.0
+2026-03,ST01,Rent & Occupancy,21515.05
+2026-03,ST01,Salaries & Wages,33210.41
+2026-03,ST01,Sales Commission,4631.31
+2026-03,ST01,Marketing & Advertising,3256.43
+2026-03,ST01,Card Processing Fees,8065.09
+2026-03,ST01,Insurance & Security,4589.87
+2026-03,ST01,Utilities,1810.59
+2026-03,ST01,Repairs & Maintenance,488.35
+2026-03,ST01,Other G&A,1842.77
+2026-04,ST01,Rent & Occupancy,21515.05
+2026-04,ST01,Salaries & Wages,33210.41
+2026-04,ST01,Sales Commission,4350.07
+2026-04,ST01,Marketing & Advertising,17160.75
+2026-04,ST01,Card Processing Fees,5968.65
+2026-04,ST01,Insurance & Security,4589.87
+2026-04,ST01,Utilities,1970.57
+2026-04,ST01,Repairs & Maintenance,2155.3
+2026-04,ST01,Other G&A,1889.95
+2026-05,ST01,Rent & Occupancy,21515.05
+2026-05,ST01,Salaries & Wages,33210.41
+2026-05,ST01,Sales Commission,5727.32
+2026-05,ST01,Marketing & Advertising,3230.87
+2026-05,ST01,Card Processing Fees,10061.98
+2026-05,ST01,Insurance & Security,4589.87
+2026-05,ST01,Utilities,1873.53
+2026-05,ST01,Repairs & Maintenance,488.44
+2026-05,ST01,Other G&A,1597.86
+2026-06,ST01,Rent & Occupancy,21515.05
+2026-06,ST01,Salaries & Wages,33210.41
+2026-06,ST01,Sales Commission,4801.32
+2026-06,ST01,Marketing & Advertising,3855.35
+2026-06,ST01,Card Processing Fees,7906.49
+2026-06,ST01,Insurance & Security,4589.87
+2026-06,ST01,Utilities,1914.11
+2026-06,ST01,Repairs & Maintenance,427.2
+2026-06,ST01,Other G&A,1599.15
+2026-07,ST01,Rent & Occupancy,21515.05
+2026-07,ST01,Salaries & Wages,33210.41
+2026-07,ST01,Sales Commission,3751.35
+2026-07,ST01,Marketing & Advertising,3095.99
+2026-07,ST01,Card Processing Fees,6709.04
+2026-07,ST01,Insurance & Security,4589.87
+2026-07,ST01,Utilities,1679.43
+2026-07,ST01,Repairs & Maintenance,2640.71
+2026-07,ST01,Other G&A,1817.71
+2026-08,ST01,Rent & Occupancy,21515.05
+2026-08,ST01,Salaries & Wages,33210.41
+2026-08,ST01,Sales Commission,3729.12
+2026-08,ST01,Marketing & Advertising,3389.08
+2026-08,ST01,Card Processing Fees,6420.58
+2026-08,ST01,Insurance & Security,4589.87
+2026-08,ST01,Utilities,2270.48
+2026-08,ST01,Repairs & Maintenance,428.27
+2026-08,ST01,Other G&A,1738.04
+2026-09,ST01,Rent & Occupancy,21515.05
+2026-09,ST01,Salaries & Wages,33210.41
+2026-09,ST01,Sales Commission,6072.11
+2026-09,ST01,Marketing & Advertising,14215.27
+2026-09,ST01,Card Processing Fees,8286.11
+2026-09,ST01,Insurance & Security,4589.87
+2026-09,ST01,Utilities,1744.27
+2026-09,ST01,Repairs & Maintenance,524.08
+2026-09,ST01,Other G&A,1899.98
+2026-10,ST01,Rent & Occupancy,21515.05
+2026-10,ST01,Salaries & Wages,37195.66
+2026-10,ST01,Sales Commission,8027.05
+2026-10,ST01,Marketing & Advertising,15291.87
+2026-10,ST01,Card Processing Fees,17255.65
+2026-10,ST01,Insurance & Security,4589.87
+2026-10,ST01,Utilities,1822.79
+2026-10,ST01,Repairs & Maintenance,2032.64
+2026-10,ST01,Other G&A,1814.02
+2026-11,ST01,Rent & Occupancy,21515.05
+2026-11,ST01,Salaries & Wages,37195.66
+2026-11,ST01,Sales Commission,6272.69
+2026-11,ST01,Marketing & Advertising,15493.47
+2026-11,ST01,Card Processing Fees,11964.3
+2026-11,ST01,Insurance & Security,4589.87
+2026-11,ST01,Utilities,1734.99
+2026-11,ST01,Repairs & Maintenance,418.27
+2026-11,ST01,Other G&A,1618.16
+2026-12,ST01,Rent & Occupancy,21515.05
+2026-12,ST01,Salaries & Wages,37195.66
+2026-12,ST01,Sales Commission,7409.38
+2026-12,ST01,Marketing & Advertising,2998.82
+2026-12,ST01,Card Processing Fees,13526.21
+2026-12,ST01,Insurance & Security,4589.87
+2026-12,ST01,Utilities,2149.18
+2026-12,ST01,Repairs & Maintenance,545.71
+2026-12,ST01,Other G&A,1593.71
+2026-01,ST02,Rent & Occupancy,18205.04
+2026-01,ST02,Salaries & Wages,28466.07
+2026-01,ST02,Sales Commission,3319.79
+2026-01,ST02,Marketing & Advertising,2642.86
+2026-01,ST02,Card Processing Fees,4996.52
+2026-01,ST02,Insurance & Security,3530.68
+2026-01,ST02,Utilities,1329.42
+2026-01,ST02,Repairs & Maintenance,2322.13
+2026-01,ST02,Other G&A,1403.76
+2026-02,ST02,Rent & Occupancy,18205.04
+2026-02,ST02,Salaries & Wages,28466.07
+2026-02,ST02,Sales Commission,3947.68
+2026-02,ST02,Marketing & Advertising,2726.31
+2026-02,ST02,Card Processing Fees,7967.69
+2026-02,ST02,Insurance & Security,3530.68
+2026-02,ST02,Utilities,1450.45
+2026-02,ST02,Repairs & Maintenance,421.28
+2026-02,ST02,Other G&A,1286.8
+2026-03,ST02,Rent & Occupancy,18205.04
+2026-03,ST02,Salaries & Wages,28466.07
+2026-03,ST02,Sales Commission,3271.72
+2026-03,ST02,Marketing & Advertising,2566.39
+2026-03,ST02,Card Processing Fees,4982.19
+2026-03,ST02,Insurance & Security,3530.68
+2026-03,ST02,Utilities,1562.18
+2026-03,ST02,Repairs & Maintenance,558.12
+2026-03,ST02,Other G&A,1388.67
+2026-04,ST02,Rent & Occupancy,18205.04
+2026-04,ST02,Salaries & Wages,28466.07
+2026-04,ST02,Sales Commission,3818.28
+2026-04,ST02,Marketing & Advertising,13087.47
+2026-04,ST02,Card Processing Fees,6178.6
+2026-04,ST02,Insurance & Security,3530.68
+2026-04,ST02,Utilities,1313.98
+2026-04,ST02,Repairs & Maintenance,1975.11
+2026-04,ST02,Other G&A,1302.56
+2026-05,ST02,Rent & Occupancy,18205.04
+2026-05,ST02,Salaries & Wages,28466.07
+2026-05,ST02,Sales Commission,4297.92
+2026-05,ST02,Marketing & Advertising,2244.5
+2026-05,ST02,Card Processing Fees,6383.92
+2026-05,ST02,Insurance & Security,3530.68
+2026-05,ST02,Utilities,1588.85
+2026-05,ST02,Repairs & Maintenance,511.53
+2026-05,ST02,Other G&A,1366.23
+2026-06,ST02,Rent & Occupancy,18205.04
+2026-06,ST02,Salaries & Wages,28466.07
+2026-06,ST02,Sales Commission,3375.48
+2026-06,ST02,Marketing & Advertising,2624.85
+2026-06,ST02,Card Processing Fees,6390.0
+2026-06,ST02,Insurance & Security,3530.68
+2026-06,ST02,Utilities,1280.16
+2026-06,ST02,Repairs & Maintenance,500.34
+2026-06,ST02,Other G&A,1475.97
+2026-07,ST02,Rent & Occupancy,18205.04
+2026-07,ST02,Salaries & Wages,28466.07
+2026-07,ST02,Sales Commission,4005.94
+2026-07,ST02,Marketing & Advertising,2567.5
+2026-07,ST02,Card Processing Fees,6726.3
+2026-07,ST02,Insurance & Security,3530.68
+2026-07,ST02,Utilities,1288.51
+2026-07,ST02,Repairs & Maintenance,1846.63
+2026-07,ST02,Other G&A,1382.04
+2026-08,ST02,Rent & Occupancy,18205.04
+2026-08,ST02,Salaries & Wages,28466.07
+2026-08,ST02,Sales Commission,2922.95
+2026-08,ST02,Marketing & Advertising,2235.76
+2026-08,ST02,Card Processing Fees,4536.07
+2026-08,ST02,Insurance & Security,3530.68
+2026-08,ST02,Utilities,1417.61
+2026-08,ST02,Repairs & Maintenance,525.05
+2026-08,ST02,Other G&A,1486.24
+2026-09,ST02,Rent & Occupancy,18205.04
+2026-09,ST02,Salaries & Wages,28466.07
+2026-09,ST02,Sales Commission,3599.82
+2026-09,ST02,Marketing & Advertising,13205.28
+2026-09,ST02,Card Processing Fees,5671.02
+2026-09,ST02,Insurance & Security,3530.68
+2026-09,ST02,Utilities,1319.87
+2026-09,ST02,Repairs & Maintenance,418.7
+2026-09,ST02,Other G&A,1414.08
+2026-10,ST02,Rent & Occupancy,18205.04
+2026-10,ST02,Salaries & Wages,31882.0
+2026-10,ST02,Sales Commission,6003.31
+2026-10,ST02,Marketing & Advertising,11826.22
+2026-10,ST02,Card Processing Fees,8878.33
+2026-10,ST02,Insurance & Security,3530.68
+2026-10,ST02,Utilities,1356.18
+2026-10,ST02,Repairs & Maintenance,2391.19
+2026-10,ST02,Other G&A,1455.69
+2026-11,ST02,Rent & Occupancy,18205.04
+2026-11,ST02,Salaries & Wages,31882.0
+2026-11,ST02,Sales Commission,4752.58
+2026-11,ST02,Marketing & Advertising,12880.07
+2026-11,ST02,Card Processing Fees,8201.23
+2026-11,ST02,Insurance & Security,3530.68
+2026-11,ST02,Utilities,1658.0
+2026-11,ST02,Repairs & Maintenance,545.83
+2026-11,ST02,Other G&A,1465.06
+2026-12,ST02,Rent & Occupancy,18205.04
+2026-12,ST02,Salaries & Wages,31882.0
+2026-12,ST02,Sales Commission,6384.06
+2026-12,ST02,Marketing & Advertising,2874.68
+2026-12,ST02,Card Processing Fees,9264.95
+2026-12,ST02,Insurance & Security,3530.68
+2026-12,ST02,Utilities,1272.37
+2026-12,ST02,Repairs & Maintenance,398.82
+2026-12,ST02,Other G&A,1341.97
+2026-01,ST03,Rent & Occupancy,13791.7
+2026-01,ST03,Salaries & Wages,23721.72
+2026-01,ST03,Sales Commission,3288.75
+2026-01,ST03,Marketing & Advertising,2058.22
+2026-01,ST03,Card Processing Fees,5289.92
+2026-01,ST03,Insurance & Security,3001.08
+2026-01,ST03,Utilities,1306.12
+2026-01,ST03,Repairs & Maintenance,1945.85
+2026-01,ST03,Other G&A,1071.84
+2026-02,ST03,Rent & Occupancy,13791.7
+2026-02,ST03,Salaries & Wages,23721.72
+2026-02,ST03,Sales Commission,3010.75
+2026-02,ST03,Marketing & Advertising,2265.96
+2026-02,ST03,Card Processing Fees,5840.36
+2026-02,ST03,Insurance & Security,3001.08
+2026-02,ST03,Utilities,1128.2
+2026-02,ST03,Repairs & Maintenance,442.0
+2026-02,ST03,Other G&A,1191.5
+2026-03,ST03,Rent & Occupancy,13791.7
+2026-03,ST03,Salaries & Wages,23721.72
+2026-03,ST03,Sales Commission,2586.55
+2026-03,ST03,Marketing & Advertising,2003.03
+2026-03,ST03,Card Processing Fees,3707.51
+2026-03,ST03,Insurance & Security,3001.08
+2026-03,ST03,Utilities,1471.42
+2026-03,ST03,Repairs & Maintenance,427.45
+2026-03,ST03,Other G&A,1058.84
+2026-04,ST03,Rent & Occupancy,13791.7
+2026-04,ST03,Salaries & Wages,23721.72
+2026-04,ST03,Sales Commission,3342.57
+2026-04,ST03,Marketing & Advertising,11525.21
+2026-04,ST03,Card Processing Fees,5283.65
+2026-04,ST03,Insurance & Security,3001.08
+2026-04,ST03,Utilities,1149.14
+2026-04,ST03,Repairs & Maintenance,2025.56
+2026-04,ST03,Other G&A,1263.82
+2026-05,ST03,Rent & Occupancy,13791.7
+2026-05,ST03,Salaries & Wages,23721.72
+2026-05,ST03,Sales Commission,3333.86
+2026-05,ST03,Marketing & Advertising,2165.38
+2026-05,ST03,Card Processing Fees,5876.66
+2026-05,ST03,Insurance & Security,3001.08
+2026-05,ST03,Utilities,1464.35
+2026-05,ST03,Repairs & Maintenance,516.78
+2026-05,ST03,Other G&A,1113.33
+2026-06,ST03,Rent & Occupancy,13791.7
+2026-06,ST03,Salaries & Wages,23721.72
+2026-06,ST03,Sales Commission,2734.42
+2026-06,ST03,Marketing & Advertising,2086.85
+2026-06,ST03,Card Processing Fees,3851.84
+2026-06,ST03,Insurance & Security,3001.08
+2026-06,ST03,Utilities,1165.58
+2026-06,ST03,Repairs & Maintenance,462.61
+2026-06,ST03,Other G&A,1205.78
+2026-07,ST03,Rent & Occupancy,13791.7
+2026-07,ST03,Salaries & Wages,23721.72
+2026-07,ST03,Sales Commission,2856.64
+2026-07,ST03,Marketing & Advertising,2081.42
+2026-07,ST03,Card Processing Fees,4081.56
+2026-07,ST03,Insurance & Security,3001.08
+2026-07,ST03,Utilities,1169.23
+2026-07,ST03,Repairs & Maintenance,2676.27
+2026-07,ST03,Other G&A,1162.63
+2026-08,ST03,Rent & Occupancy,13791.7
+2026-08,ST03,Salaries & Wages,23721.72
+2026-08,ST03,Sales Commission,3138.02
+2026-08,ST03,Marketing & Advertising,2272.08
+2026-08,ST03,Card Processing Fees,4441.14
+2026-08,ST03,Insurance & Security,3001.08
+2026-08,ST03,Utilities,1333.28
+2026-08,ST03,Repairs & Maintenance,410.96
+2026-08,ST03,Other G&A,1233.79
+2026-09,ST03,Rent & Occupancy,13791.7
+2026-09,ST03,Salaries & Wages,23721.72
+2026-09,ST03,Sales Commission,3773.82
+2026-09,ST03,Marketing & Advertising,9936.07
+2026-09,ST03,Card Processing Fees,8871.52
+2026-09,ST03,Insurance & Security,3001.08
+2026-09,ST03,Utilities,1431.34
+2026-09,ST03,Repairs & Maintenance,559.24
+2026-09,ST03,Other G&A,1147.23
+2026-10,ST03,Rent & Occupancy,13791.7
+2026-10,ST03,Salaries & Wages,26568.33
+2026-10,ST03,Sales Commission,4890.32
+2026-10,ST03,Marketing & Advertising,9946.94
+2026-10,ST03,Card Processing Fees,7360.69
+2026-10,ST03,Insurance & Security,3001.08
+2026-10,ST03,Utilities,1097.82
+2026-10,ST03,Repairs & Maintenance,1962.85
+2026-10,ST03,Other G&A,1057.61
+2026-11,ST03,Rent & Occupancy,13791.7
+2026-11,ST03,Salaries & Wages,26568.33
+2026-11,ST03,Sales Commission,4277.95
+2026-11,ST03,Marketing & Advertising,10549.16
+2026-11,ST03,Card Processing Fees,6832.28
+2026-11,ST03,Insurance & Security,3001.08
+2026-11,ST03,Utilities,1306.48
+2026-11,ST03,Repairs & Maintenance,438.5
+2026-11,ST03,Other G&A,1221.18
+2026-12,ST03,Rent & Occupancy,13791.7
+2026-12,ST03,Salaries & Wages,26568.33
+2026-12,ST03,Sales Commission,4505.09
+2026-12,ST03,Marketing & Advertising,2517.39
+2026-12,ST03,Card Processing Fees,8121.08
+2026-12,ST03,Insurance & Security,3001.08
+2026-12,ST03,Utilities,1317.25
+2026-12,ST03,Repairs & Maintenance,522.13
+2026-12,ST03,Other G&A,1188.99

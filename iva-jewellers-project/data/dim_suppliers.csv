@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,gold_wastage_pct,labour_cad_per_g,standard_lead_time_days
+SUP01,Zaveri Ornaments Pvt (Mumbai),India,0.065,2.6,38
+SUP02,Coimbatore Chain Works,India,0.035,2.2,32
+SUP03,Toronto Gold Craft Inc.,Canada,0.04,4.2,10
+SUP04,Rajkot Temple Jewels,India,0.07,3.0,45
+SUP05,Kolkata Bangle House,India,0.05,2.5,40
+SUP06,GTA Diamond Studio,Canada,0.03,5.5,14
+SUP07,Maple Bullion Supply,Canada,0.015,0.8,4
+SUP08,Jaipur Silver Arts,India,0.0,0.0,42

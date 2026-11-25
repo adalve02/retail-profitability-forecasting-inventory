@@ -1,0 +1,124 @@
+sku,design_name,category,metal_type,karat,purity,size,net_weight_g,making_charge_pct,stone_cost_cad,stone_retail_cad,silver_list_price_cad,primary_supplier_id,collection,launch_date
+SKU0001,Rope,Gold Chains ,gold,22K,0.916,18in,18.0,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0002,Rope,Gold Chains,gold,22K,0.916,20in,20.0,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0003,Rope,Gold Chains,gold,22K,0.916,22in,22.0,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0004,Rope,Gold Chains,gold,22K,0.916,24in,24.0,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0005,Box Link,Gold Chains,gold,22K,0.916,18in,9.6,0.118,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0006,Box Link,Gold Chains,gold,22K,0.916,20in,10.7,0.118,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0007,Box Link,Gold Chains,gold,22K,0.916,22in,11.8,0.118,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0008,Box Link,Gold Chains,gold,22K,0.916,24in,12.8,0.118,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0009,Figaro,Gold Chains,gold,22K,0.916,18in,7.8,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0010,Figaro,Gold Chains,gold,22K,0.916,20in,8.7,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0011,Figaro,Gold Chains,gold,22K,0.916,22in,9.6,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0012,Figaro,Gold Chains,gold,22K,0.916,24in,10.4,0.102,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0013,Singapore,Gold Chains,gold,22K,0.916,18in,18.2,0.12,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0014,Singapore,Gold Chains,gold,22K,0.916,20in,20.2,0.12,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0015,Singapore,Gold Chains,gold,22K,0.916,22in,22.2,0.12,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0016,Singapore,Gold Chains,gold,22K,0.916,24in,24.2,0.12,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0017,Cable,Gold Chains,gold,22K,0.916,18in,19.2,0.134,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0018,Cable,Gold Chains,gold,22K,0.916,20in,21.3,0.134,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0019,Cable,Gold Chains,gold,22K,0.916,22in,23.4,0.134,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0020,Cable,Gold Chains,gold,22K,0.916,24in,25.6,0.134,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0021,Plain Kada,Gold Bangles,gold,22K,0.916,2.4,27.5,0.166,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0022,Plain Kada,Gold Bangles,gold,22K,0.916,2.6,29.8,0.166,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0023,Plain Kada,Gold Bangles,gold,22K,0.916,2.8,32.1,0.166,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0024,Filigree,Gold Bangles ,gold,22K,0.916,2.4,14.9,0.16,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0025,Filigree,Gold Bangles,gold,22K,0.916,2.6,16.1,0.16,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0026,Filigree,Gold Bangles,gold,22K,0.916,2.8,17.3,0.16,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0027,Kangan Twist,Gold Bangles,gold,22K,0.916,2.4,15.6,0.142,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0028,Kangan Twist,Gold Bangles,gold,22K,0.916,2.6,16.9,0.142,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0029,Kangan Twist,Gold Bangles,gold,22K,0.916,2.8,18.2,0.142,0.0,0.0,0.0,SUP05,Core,2022-01-01
+SKU0030,Meenakari,Gold Bangles,gold,22K,0.916,2.4,14.4,0.176,0.0,0.0,0.0,SUP01,Festive Kundan 2024,2024-09-15
+SKU0031,Meenakari,Gold Bangles,gold,22K,0.916,2.6,15.6,0.176,0.0,0.0,0.0,SUP01,Festive Kundan 2024,2024-09-15
+SKU0032,Meenakari,Gold Bangles,gold,22K,0.916,2.8,16.8,0.176,0.0,0.0,0.0,SUP01,Festive Kundan 2024,2024-09-15
+SKU0033,Solitaire Look,Gold Rings,gold,22K,0.916,5,6.2,0.178,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0034,Solitaire Look,Gold Rings,gold,22K,0.916,6,6.6,0.178,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0035,Solitaire Look,Gold Rings,gold,22K,0.916,7,6.9,0.178,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0036,Solitaire Look,Gold Rings,gold,22K,0.916,8,7.2,0.178,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0037,Solitaire Look,Gold Rings,gold,22K,0.916,9,7.6,0.178,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0038,Leaf Band,Gold Rings,gold,22K,0.916,5,4.3,0.185,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0039,Leaf Band,Gold Rings,gold,22K,0.916,6,4.6,0.185,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0040,Leaf Band,Gold Rings,gold,22K,0.916,7,4.8,0.185,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0041,Leaf Band,Gold Rings,gold,22K,0.916,8,5.0,0.185,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0042,Leaf Band,Gold Rings,gold,22K,0.916,9,,0.185,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0043,Floral,Gold Rings,gold,22K,0.916,5,2.9,0.196,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0044,Floral,Gold Rings,gold,22K,0.916,6,3.0,0.196,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0045,Floral,Gold Rings,gold,22K,0.916,7,3.2,0.196,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0046,Floral,Gold Rings,gold,22K,0.916,8,3.4,0.196,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0047,Floral,Gold Rings,gold,22K,0.916,9,3.5,0.196,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0048,Signet,Gold Rings,gold,22K,0.916,5,4.2,0.153,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0049,Signet,Gold Rings,gold,22K,0.916,6,4.5,0.153,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0050,Signet,Gold Rings,gold,22K,0.916,7,4.7,0.153,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0051,Signet,Gold Rings,gold,22K,0.916,8,4.9,0.153,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0052,Signet,Gold Rings,gold,22K,0.916,9,5.2,0.153,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0053,Twist Band,Gold Rings,gold,22K,0.916,5,5.3,0.17,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0054,Twist Band,Gold Rings,gold,22K,0.916,6,5.6,0.17,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0055,Twist Band,Gold Rings,gold,22K,0.916,7,5.9,0.17,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0056,Twist Band,Gold Rings,gold,22K,0.916,8,6.2,0.17,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0057,Twist Band,Gold Rings,gold,22K,0.916,9,6.5,0.17,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0058,Minimal Dome,Gold Rings,gold,22K,0.916,5,1.8,0.151,0.0,0.0,0.0,SUP03,Minimal Daily Wear,2025-03-01
+SKU0059,Minimal Dome,Gold Rings,gold,22K,0.916,6,1.9,0.151,0.0,0.0,0.0,SUP03,Minimal Daily Wear,2025-03-01
+SKU0060,Minimal Dome,Gold Rings,gold,22K,0.916,7,2.0,0.151,0.0,0.0,0.0,SUP03,Minimal Daily Wear,2025-03-01
+SKU0061,Minimal Dome,Gold Rings,gold,22K,0.916,8,2.1,0.151,0.0,0.0,0.0,SUP03,Minimal Daily Wear,2025-03-01
+SKU0062,Minimal Dome,Gold Rings,gold,22K,0.916,9,2.2,0.151,0.0,0.0,0.0,SUP03,Minimal Daily Wear,2025-03-01
+SKU0063,Jhumka Classic,Gold Earrings,gold,22K,0.916,,6.2,0.195,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0064,Chandbali,Gold Earrings,gold,22K,0.916,,5.3,0.196,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0065,Stud Lotus,Gold Earrings,gold,22K,0.916,,10.6,0.209,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0066,Hoop Small,Gold Earrings ,gold,22K,0.916,,4.0,0.211,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0067,Hoop Large,Gold Earrings,gold,22K,0.916,,5.9,0.165,0.0,0.0,0.0,SUP03,Core,2022-01-01
+SKU0068,Drop Pearl,Gold Earrings,gold,22K,0.916,,7.7,0.207,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0069,Kundan Stud,Gold Earrings,gold,22K,0.916,,10.8,0.209,0.0,0.0,0.0,SUP01,Festive Kundan 2024,2024-09-15
+SKU0070,Minimal Bar,Gold Earrings,gold,22K,0.916,,4.7,0.162,0.0,0.0,0.0,SUP01,Minimal Daily Wear,2025-03-01
+SKU0071,Minimal Huggie,Gold Earrings,gold,22K,0.916,,4.2,0.208,0.0,0.0,0.0,SUP01,Minimal Daily Wear,2025-03-01
+SKU0072,Temple Jhumka,Gold Earrings,gold,22K,0.916,,8.7,0.188,0.0,0.0,0.0,SUP04,Temple Heritage,2025-09-01
+SKU0073,Bridal Haar,Necklace Sets,gold,22K,0.916,,43.0,0.172,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0074,Rani Haar,Necklace Sets,gold,22K,0.916,,43.0,0.143,0.0,0.0,0.0,SUP04,Core,2022-01-01
+SKU0075,Choker Kundan,Necklace Sets,gold,22K,0.916,,78.7,0.158,0.0,0.0,0.0,SUP01,Festive Kundan 2024,2024-09-15
+SKU0076,Lakshmi Kasu,Necklace Sets,gold,22K,0.916,,53.1,0.154,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0077,Antique Mango,Necklace Sets,gold,22K,0.916,,42.2,0.142,0.0,0.0,0.0,SUP04,Core,2022-01-01
+SKU0078,Temple Haram,Necklace Sets,gold,22K,0.916,,70.6,0.17,0.0,0.0,0.0,SUP04,Temple Heritage,2025-09-01
+SKU0079,Temple Choker,Necklace Sets,gold,22K,0.916,,54.2,0.167,0.0,0.0,0.0,SUP04,Temple Heritage,2025-09-01
+SKU0080,Light Wedding Set,Necklace Sets,gold,22K,0.916,,49.0,0.156,0.0,0.0,0.0,SUP04,Minimal Daily Wear,2025-03-01
+SKU0081,Traditional Vati,Mangalsutra,gold,22K,0.916,,12.6,0.137,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0082,Diamond Pendant MS,Mangalsutra,gold,22K,0.916,,16.0,0.139,450.0,832.0,0.0,SUP01,Core,2022-01-01
+SKU0083,Short Modern,Mangalsutra,gold,22K,0.916,,14.6,0.127,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0084,Long Classic,Mangalsutra,gold,22K,0.916,,17.1,0.145,0.0,0.0,0.0,SUP02,Core,2022-01-01
+SKU0085,Minimal Chain MS,Mangalsutra,gold,22K,0.916,,7.3,0.127,0.0,0.0,0.0,SUP01,Minimal Daily Wear,2025-03-01
+SKU0086,Double Line,Mangalsutra,gold,22K,0.916,,13.4,0.141,0.0,0.0,0.0,SUP01,Core,2022-01-01
+SKU0087,5g Coin,Gold Coins,coin,24K,0.999,,5.0,0.035,0.0,0.0,0.0,SUP07,Core,2022-01-01
+SKU0088,10g Coin,Gold Coins,coin,24K,0.999,,10.0,0.032,0.0,0.0,0.0,SUP07,Core,2022-01-01
+SKU0089,20g Bar,Gold Coins,coin,24K,0.999,,20.0,0.044,0.0,0.0,0.0,SUP07,Core,2022-01-01
+SKU0090,Solitaire 0.5ct,Diamond Rings,diamond,18K,0.75,5,3.9,0.194,801.0,1482.0,0.0,SUP06,Core,2022-01-01
+SKU0091,Solitaire 0.5ct,Diamond Rings,diamond,18K,0.75,6,4.1,0.194,801.0,1482.0,0.0,SUP06,Core,2022-01-01
+SKU0092,Solitaire 0.5ct,Diamond Rings,diamond,18K,0.75,7,4.3,0.194,801.0,1482.0,0.0,SUP06,Core,2022-01-01
+SKU0093,Solitaire 0.5ct,Diamond Rings,diamond,18K,0.75,8,4.5,0.194,801.0,1482.0,0.0,SUP06,Core,2022-01-01
+SKU0094,Halo Ring,Diamond Rings,diamond,18K,0.75,5,2.7,0.21,2949.0,5456.0,0.0,SUP06,Core,2022-01-01
+SKU0095,Halo Ring,Diamond Rings,diamond,18K,0.75,6,2.9,0.21,2949.0,5456.0,0.0,SUP06,Core,2022-01-01
+SKU0096,Halo Ring,Diamond Rings,diamond,18K,0.75,7,3.0,0.21,2949.0,5456.0,0.0,SUP06,Core,2022-01-01
+SKU0097,Halo Ring,Diamond Rings,diamond,18K,0.75,8,3.2,0.21,2949.0,5456.0,0.0,SUP06,Core,2022-01-01
+SKU0098,Eternity Band,Diamond Rings,diamond,18K,0.75,5,3.6,0.209,1382.0,2557.0,0.0,SUP06,Core,2022-01-01
+SKU0099,Eternity Band,Diamond Rings ,diamond,18K,0.75,6,3.8,0.209,1382.0,2557.0,0.0,SUP06,Core,2022-01-01
+SKU0100,Eternity Band,Diamond Rings,diamond,18K,0.75,7,,0.209,1382.0,2557.0,0.0,SUP06,Core,2022-01-01
+SKU0101,Eternity Band,Diamond Rings,diamond,18K,0.75,8,4.2,0.209,1382.0,2557.0,0.0,SUP06,Core,2022-01-01
+SKU0102,Cluster Ring,Diamond Rings,diamond,18K,0.75,5,2.8,0.193,1364.0,2523.0,0.0,SUP06,Core,2022-01-01
+SKU0103,Cluster Ring,Diamond Rings,diamond,18K,0.75,6,2.9,0.193,1364.0,2523.0,0.0,SUP06,Core,2022-01-01
+SKU0104,Cluster Ring,Diamond Rings ,diamond,18K,0.75,7,3.1,0.193,1364.0,2523.0,0.0,SUP06,Core,2022-01-01
+SKU0105,Cluster Ring,Diamond Rings,diamond,18K,0.75,8,3.3,0.193,1364.0,2523.0,0.0,SUP06,Core,2022-01-01
+SKU0106,Solitaire Studs,Diamond Earrings,diamond,18K,0.75,,3.9,0.207,2883.0,5334.0,0.0,SUP06,Core,2022-01-01
+SKU0107,Halo Studs,Diamond Earrings,diamond,18K,0.75,,2.3,0.206,1484.0,2745.0,0.0,SUP06,Core,2022-01-01
+SKU0108,Drop Diamond,Diamond Earrings,diamond,18K,0.75,,4.5,0.201,1752.0,3241.0,0.0,SUP06,Core,2022-01-01
+SKU0109,Huggie Diamond,Diamond Earrings,diamond,18K,0.75,,4.2,0.215,2334.0,4318.0,0.0,SUP06,Core,2022-01-01
+SKU0110,Floral Cluster,Diamond Earrings,diamond,18K,0.75,,2.3,0.193,1819.0,3365.0,0.0,SUP06,Core,2022-01-01
+SKU0111,Minimal Diamond Bar,Diamond Earrings,diamond,18K,0.75,,2.6,0.184,1139.0,2107.0,0.0,SUP06,Minimal Daily Wear,2025-03-01
+SKU0112,Anklet Pair,Silver Jewellery,silver,925 Silver,0.925,,15.4,0.0,0.0,0.0,322.0,SUP08,Core,2022-01-01
+SKU0113,Toe Rings,Silver Jewellery,silver,925 Silver,0.925,,53.6,0.0,0.0,0.0,80.0,SUP08,Core,2022-01-01
+SKU0114,Oxidised Jhumka,Silver Jewellery,silver,925 Silver,0.925,,57.4,0.0,0.0,0.0,311.0,SUP08,Core,2022-01-01
+SKU0115,Silver Kada,Silver Jewellery,silver,925 Silver,0.925,,58.3,0.0,0.0,0.0,348.0,SUP08,Core,2022-01-01
+SKU0116,Pooja Thali,Silver Jewellery,silver,925 Silver,0.925,,21.9,0.0,0.0,0.0,330.0,SUP08,Core,2022-01-01
+SKU0117,Kids Bracelet,Silver Jewellery,silver,925 Silver,0.925,,41.2,0.0,0.0,0.0,195.0,SUP08,Core,2022-01-01
+SKU0118,Rakhi Set,Silver Jewellery,silver,925 Silver,0.925,,11.0,0.0,0.0,0.0,172.0,SUP08,Core,2022-01-01
+SKU0119,Silver Coin 10g,Silver Jewellery,silver,925 Silver,0.925,,40.2,0.0,0.0,0.0,91.0,SUP08,Core,2022-01-01
+SKU0120,Oxidised Necklace,Silver Jewellery,silver,925 Silver,0.925,,59.9,0.0,0.0,0.0,394.0,SUP08,Core,2022-01-01
+SKU0121,Charm Bracelet,Silver Jewellery,silver,925 Silver,0.925,,21.0,0.0,0.0,0.0,153.0,SUP08,Core,2022-01-01
+SKU0122,Silver Idol Ganesh,Silver Jewellery,silver,925 Silver,0.925,,18.1,0.0,0.0,0.0,166.0,SUP08,Core,2022-01-01
+SKU0123,Minimal Silver Chain,Silver Jewellery,silver,925 Silver,0.925,,29.3,0.0,0.0,0.0,247.0,SUP08,Minimal Daily Wear,2025-03-01
